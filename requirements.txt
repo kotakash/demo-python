@@ -1,0 +1,8 @@
+Flask
+Jinja2
+Flask-RESTful
+flask-cors
+jsonschema
+six
+mysql-connector
+mysql-connector-python
